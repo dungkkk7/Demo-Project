@@ -32,3 +32,4 @@ private:
     std::string GetEdgeAESKey();
   
 };
+
